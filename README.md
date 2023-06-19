@@ -8,7 +8,7 @@ I completed this project in the following steps:
 4. create an interactive dashboard.
 5. Present results & suggestions in front of the Chief Marketing Officer.
 
-Refer to this blog for a complete Process and Analysis: 
+Refer to this blog for a complete Process and Analysis: https://medium.com/@ajaypjoshi999/data-analysis-of-beverage-company-codex-ltd-de7a66c78028
 
 
 ![Screenshot (122)](https://github.com/ajaypjoshi/CodeX-Beverage-Data-Analysis/assets/131679074/9a88fbe3-e2fb-46a3-859e-5a92c91b04c0)
